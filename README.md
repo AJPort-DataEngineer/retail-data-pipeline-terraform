@@ -1,1 +1,1 @@
-# retail-data-pipeline-terraform
+# department-store-data-pipeline-terraform
